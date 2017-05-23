@@ -1,0 +1,225 @@
+body {
+    background-image: url(imatges/space1.jpg);
+    height: 1024px;
+    width: 1920px;
+    background-position: center;
+    background-repeat: no-repeat;
+   background-size:1920px;
+    
+    
+}
+
+div video{
+    
+    padding-top: 10px;
+    width: 800px;
+    height:400px;
+}
+
+#text p{
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    height: 300px;
+    background-color: rgba(0,0,0,0.75);
+    overflow-y:scroll;
+    font-family: sans-serif;
+    font-size: 15px;
+    color:yellow;
+    
+}
+
+div button{
+   position: fixed;
+    top: 130px;
+    
+      
+}
+img.planol{
+    width: 550px;
+    height: 550px;
+    position: relative;
+    top: 50px;
+    left: 100px;
+}
+
+
+img.xwing {
+    padding: 1px;
+    position: fixed;
+    top: 350px;
+    left: 1380px;
+    width: 250px;
+    height: 200px;
+    
+}
+
+
+img.t47 {
+    padding: 1px;
+    position: fixed;
+    top: 600px;
+    left: 1480px;
+    width: 250px;
+    height: 200px;
+}
+
+
+
+                                       
+
+
+img.ywing {
+   padding: 1px;
+    position: fixed;
+    top: 100px;
+    left: 1480px;
+    width: 250px;
+    height: 200px;
+    
+}
+
+
+img.halcon{
+    padding: 1px;
+    position: fixed;
+    top: 450px;
+    left: 750px;
+    width: 650px;
+    height: 500px;
+
+}
+                                               
+
+  img.fire{
+  padding: 1px;
+ position: fixed;
+ top: 100px;
+  left: 350px;
+ width: 250px;
+ height: 200px;
+   }
+
+ 
+
+
+
+
+
+img.destructor{
+    padding: 1px;
+    width: 600px;
+    height: 400px;
+    position: fixed;
+    top: 50px;
+    left:700px;
+}
+
+
+img.lanzadera{
+    padding: 0px;
+    width: 700px;
+    height: 600px;
+    position: fixed;
+    top: 450px;
+    left:-100px;
+    
+}
+
+
+
+img.tie{
+    padding: 0px;
+    width: 300px;
+    height: 200px;
+    position: fixed;
+    top: 40px;
+    left:10px;
+
+}
+
+
+
+#mes{
+    height: 25px;
+    width: 25px;
+    margin-top: 5px;
+    margin-right: 50px;
+  
+}
+
+#menys{
+    height: 25px;
+    width: 25px;
+    margin-top: 5px;
+    margin-left: 40px;
+    
+    
+}
+
+.volum{
+    height: 25px;
+    width: 25px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+
+#duracioTotal{
+    position: fixed;
+    top:575px;
+    left: 865px;
+    color: white;
+}
+
+
+#posicioActual{
+    position: fixed;
+    top:575px;
+    left: 835px;
+    color: white;
+}
+ #general{
+     height:400px;
+     width:800px;
+     position:fixed;
+                                           
+     top:150px;
+     left:500px;
+     visibility: hidden;
+     z-index: 2;
+}
+
+div.player {
+    border-radius: 10px;
+    width: 800px;
+    height: 35px;
+    background-color: dimgray;
+    padding: 0px;
+    border-width: 10x 10px 10px 10px;
+    border-style: solid;
+    border-color: yellow
+}
+
+
+#botoReproduir{
+    height: 25px;
+    width: 25px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+
+#botoPausar{
+    height: 25px;
+    width: 25px;
+    margin-top: 5px;
+    margin-right: 100px;
+}
+
+span.barra{
+    position: fixed;
+    top: 575px;
+    left: 855px;
+    color: white;
+}
